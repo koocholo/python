@@ -4,9 +4,7 @@ print(studentMarks)
 print(len(studentMarks))
 
 for a in studentMarks:
-   print(a)
-
-
+    print(a)
 
 
 # 2 * 1 = 2
